@@ -21,7 +21,7 @@ for quote, author in zip(quotes, authors):
     hs.insert(f"{quote.text}\n - {author.text}")
     
 # uncomment to show quotes stored
-hs.debug()
+# hs.debug()
 
 
 
